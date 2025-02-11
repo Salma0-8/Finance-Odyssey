@@ -83,6 +83,7 @@ This roadmap is designed to guide you from the basics of fraud risk analysis thr
   - Kaggle competition: **"Fraud Detection Challenge"**
   - Book: **"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"**
   - Free course: Andrew Ng’s **"Machine Learning"** on Coursera
+  - github: https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/README.md
 
 ---
 
