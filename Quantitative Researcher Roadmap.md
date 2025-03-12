@@ -139,72 +139,107 @@ Understanding market microstructure and pricing models is key for making informe
 ## **Phase 2: Specialization & Advanced Techniques (6-12 months)**
 
 ### **4. Machine Learning & Quantitative Techniques**
-Machine learning techniques are applied in quantitative trading strategies.
-- **Topics to Cover:**
-  - Regression & Time Series Forecasting
-  - Factor Models & Feature Engineering
-  - Reinforcement Learning in Finance
-  - NLP for Financial Text Analysis
-- **Recommended Resources:**
-  - [Machine Learning for Asset Managers](https://www.amazon.com/Machine-Learning-Asset-Managers-Cambridge/dp/1108792897)
-  - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-  - [Time Series Analysis by James Hamilton](https://press.princeton.edu/books/hardcover/9780691042893/time-series-analysis)
+Machine learning techniques are widely applied in quantitative trading strategies, enabling more sophisticated and adaptive models for predicting financial market movements.
+
+#### **Topics to Cover:**
+- **Regression & Time Series Forecasting**
+  - Linear and Logistic Regression
+  - Autoregressive (AR), Moving Average (MA), and ARMA/ARIMA Models
+  - Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU)
+  - Kalman Filters for Trading Applications
+- **Factor Models & Feature Engineering**
+  - Fama-French Factor Models
+  - Principal Component Analysis (PCA) for Risk Factor Identification
+  - Feature Selection & Engineering Techniques (Lag Features, Rolling Windows, Seasonality Detection)
+- **Reinforcement Learning in Finance**
+  - Q-Learning and Deep Q Networks (DQN)
+  - Policy Gradient Methods
+  - AlphaGo-style Financial Strategies
+- **NLP for Financial Text Analysis**
+  - Sentiment Analysis on News & Social Media
+  - Named Entity Recognition (NER) for Earnings Reports
+  - Text-Based Predictive Models for Market Sentiment
+
+#### **Recommended Resources:**
+- [Machine Learning for Asset Managers](https://www.amazon.com/Machine-Learning-Asset-Managers-Cambridge/dp/1108792897)
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [Time Series Analysis by James Hamilton](https://press.princeton.edu/books/hardcover/9780691042893/time-series-analysis)
 
 ### **5. Algorithmic Trading & Market Making**
-Practical implementation of quant strategies.
-- **Topics to Cover:**
-  - Market Making Algorithms
-  - Order Book Dynamics
-  - High-Frequency Trading (HFT)
-  - Risk Management Strategies
-- **Recommended Resources:**
-  - [QuantStart - Algorithmic Trading](https://www.quantstart.com/)
-  - [The Science of Algorithmic Trading and Portfolio Management](https://www.elsevier.com/books/the-science-of-algorithmic-trading-and-portfolio-management/9780128008822)
+Practical implementation of quantitative strategies through systematic trading.
+
+#### **Topics to Cover:**
+- **Market Making Algorithms**
+  - Inventory-Based Market Making
+  - Avellaneda-Stoikov Model
+- **Order Book Dynamics**
+  - Order Flow Imbalance Models
+  - Market Impact Analysis
+- **High-Frequency Trading (HFT)**
+  - Latency Arbitrage
+  - Statistical Arbitrage in Millisecond Timeframes
+- **Risk Management Strategies**
+  - Portfolio Hedging Techniques
+  - Kelly Criterion for Optimal Bet Sizing
+  
+#### **Recommended Resources:**
+- [QuantStart - Algorithmic Trading](https://www.quantstart.com/)
+- [The Science of Algorithmic Trading and Portfolio Management](https://www.elsevier.com/books/the-science-of-algorithmic-trading-and-portfolio-management/9780128008822)
 
 ---
 
 ## **Phase 3: Hands-On Projects & Competitive Platforms (6-12 months)**
 
 ### **6. Research Projects**
-- **Suggested Projects:**
-  - Pairs Trading Strategy (Cointegration, Statistical Arbitrage)
-  - Market Making Simulation
-  - Volatility Forecasting (GARCH, HAR-RV Models)
-  - Order Book Modeling & Liquidity Analysis
-- **Datasets Sources:**
-  - [Kaggle Datasets](https://www.kaggle.com/datasets)
-  - [Quandl](https://www.quandl.com/)
-  - [Yahoo Finance API](https://www.yahoofinanceapi.com/)
+Applying quantitative strategies in real-world scenarios to enhance understanding and showcase skills.
+
+#### **Suggested Projects:**
+- **Pairs Trading Strategy** (Cointegration & Statistical Arbitrage)
+- **Market Making Simulation** (Develop a simulated exchange to test strategies)
+- **Volatility Forecasting** (Using GARCH, HAR-RV Models for predicting market volatility)
+- **Order Book Modeling & Liquidity Analysis** (Analyzing microstructure dynamics)
+
+#### **Datasets Sources:**
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
+- [Quandl](https://www.quandl.com/)
+- [Yahoo Finance API](https://www.yahoofinanceapi.com/)
 
 ### **7. Competitive Quant Challenges**
-- **Platforms to Join:**
-  - [Kaggle Competitions](https://www.kaggle.com/competitions)
-  - [Jane Street Puzzles](https://www.janestreet.com/puzzles/)
-  - [Numerai](https://numer.ai/tournament)
-  - [OpenQuant](https://www.openquant.com/)
+Practicing under real-world constraints by competing against top quants.
+
+#### **Platforms to Join:**
+- [Kaggle Competitions](https://www.kaggle.com/competitions)
+- [Jane Street Puzzles](https://www.janestreet.com/puzzles/)
+- [Numerai](https://numer.ai/tournament)
+- [OpenQuant](https://www.openquant.com/)
 
 ---
 
 ## **Phase 4: Jane Street Interview Preparation (3-6 months)**
 
 ### **8. Mastering the Quantitative Research Interview**
-- **Types of Questions:**
-  - Probability & Brain Teasers
-  - Market Making & Trading Problems
-  - Algorithmic Coding Challenges (C++/Python)
-  - Portfolio Optimization & Risk Management
-  - Behavioral & Strategy-Based Questions
-- **Recommended Preparation Resources:**
-  - [Jane Street Careers](https://www.janestreet.com/join-jane-street/)
-  - [Glassdoor Jane Street Interview Questions](https://www.glassdoor.com/Interview/Jane-Street-Interview-Questions-E230232.htm)
-  - [A Practical Guide to Quantitative Finance Interviews](https://www.amazon.com/Practical-Guide-Quantitative-Finance-Interviews/dp/1438225956)
-- **Mock Interview Practice:**
-  - [LeetCode](https://leetcode.com/)
-  - [Jane Street Mock Interview](https://www.janestreet.com/mock-interview/)
+Focusing on the types of questions and technical challenges encountered during interviews at Jane Street.
+
+#### **Types of Questions:**
+- **Probability & Brain Teasers** (e.g., Monty Hall, Birthday Paradox, Coin Flips)
+- **Market Making & Trading Problems** (e.g., Optimal Spread Setting, Market Impact)
+- **Algorithmic Coding Challenges** (Strong focus on C++/Python for trading algorithms)
+- **Portfolio Optimization & Risk Management** (e.g., Mean-Variance Optimization, Black-Litterman Model)
+- **Behavioral & Strategy-Based Questions** (Evaluating decision-making under uncertainty)
+
+#### **Recommended Preparation Resources:**
+- [Jane Street Careers](https://www.janestreet.com/join-jane-street/)
+- [Glassdoor Jane Street Interview Questions](https://www.glassdoor.com/Interview/Jane-Street-Interview-Questions-E230232.htm)
+- [A Practical Guide to Quantitative Finance Interviews](https://www.amazon.com/Practical-Guide-Quantitative-Finance-Interviews/dp/1438225956)
+
+#### **Mock Interview Practice:**
+- [LeetCode](https://leetcode.com/) (Solve 300+ Medium/Hard problems in Python/C++)
+- [Jane Street Mock Interview](https://www.janestreet.com/mock-interview/)
 
 ---
 
 ## **Conclusion**
-By following this structured roadmap and actively applying your skills through research projects and competitions, you will significantly improve your chances of securing a Quantitative Researcher role at Jane Street. Stay consistent, challenge yourself, and engage with the quant community to stay updated on industry trends.
+By following this structured roadmap and actively applying your skills through research projects, competitions, and interview preparation, you will significantly improve your chances of securing a Quantitative Researcher role at Jane Street. Stay consistent, challenge yourself, and engage with the quant community to stay updated on industry trends.
 
 **Good luck on your journey!**
+
