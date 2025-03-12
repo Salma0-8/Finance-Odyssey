@@ -1,4 +1,4 @@
-# Roadmap to Becoming a Quantitative Researcher at Jane Street
+# Roadmap to Becoming a Quantitative Researcher 
 
 ## **Introduction**
 This roadmap provides a structured, step-by-step guide to mastering the skills required to secure a Quantitative Researcher position at Jane Street. The journey is divided into four key phases: foundational learning, specialized skill development, hands-on projects, and interview preparation. Each step includes in-depth topics, curated resources, and practical applications to ensure comprehensive learning.
