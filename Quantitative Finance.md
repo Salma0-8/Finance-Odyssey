@@ -85,7 +85,7 @@ This roadmap provides a step-by-step guide for mastering quantitative finance, s
 ### Derivatives Pricing & Risk Management
 **Topics:**
 - Black-Scholes Model for Option Pricing ([document](https://drive.google.com/file/d/1oO66_HJgT1FnKC7hxFrELVSGy1zQ0evA/view?usp=sharing))
-- Greeks & Risk Measures (VaR, Conditional VaR)
+- Greeks & Risk Measures (VaR, Conditional VaR) ([document](https://drive.google.com/file/d/1x_51qkVo4y8LAy9FR3hyPWtrPJHD84Nl/view?usp=sharing))
 - Interest Rate Models: Vasicek, CIR
 
 **Resources:**
