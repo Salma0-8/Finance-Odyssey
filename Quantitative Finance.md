@@ -99,7 +99,7 @@ This roadmap provides a step-by-step guide for mastering quantitative finance, s
 - Black-Scholes Model for Option Pricing ([document](https://drive.google.com/file/d/1oO66_HJgT1FnKC7hxFrELVSGy1zQ0evA/view?usp=sharing))
 - Greeks & Risk Measures (VaR, Conditional VaR) ([document](https://drive.google.com/file/d/1x_51qkVo4y8LAy9FR3hyPWtrPJHD84Nl/view?usp=sharing))
 - Interest Rate Models: Vasicek, CIR ([document](https://drive.google.com/file/d/1ctCwqfluyn4nTqoqpmYdEB2QSOBshTxB/view?usp=sharing))
-- Stress Testing & Scenario Analysis
+- Stress Testing & Scenario Analysis ([document](https://drive.google.com/file/d/1l3zUZ0WBIX9qUTZOw_gi-zFqll2Pyuiy/view?usp=sharing))
 - Jump-Diffusion Models (e.g., Merton Model for option pricing)
 - Stochastic Volatility Models (Heston Model, SABR)
 
