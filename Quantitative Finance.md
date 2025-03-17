@@ -130,7 +130,7 @@ This roadmap provides a step-by-step guide for mastering quantitative finance, s
 ## Career Preparation
 ### Industry Certifications
 **Recommended Certifications:**
-- **FRM (Financial Risk Manager)** – Best for risk management
+- **FRM (Financial Risk Manager)** – Best for risk management ([FRM full Materials](https://drive.google.com/drive/u/0/folders/13m0EgG_nBM-KkyHEa2A7VuZsBl-r8RP5))
 - **CFA (Chartered Financial Analyst)** – Broad finance knowledge
 - **CQF (Certificate in Quantitative Finance)** – Focused on quant skills
 
