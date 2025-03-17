@@ -149,7 +149,9 @@ This roadmap provides a step-by-step guide for mastering quantitative finance, s
 ---
 ### Tools & Practical Experience
 -Backtesting Frameworks: QuantConnect, Zipline, Backtrader
+
 -Cloud & Big Data: AWS (S3, Lambda), Spark (for large financial datasets)
+
 -APIs for Real Market Data: Interactive Brokers, Alpha Vantage, Yahoo Finance
 
 ---
