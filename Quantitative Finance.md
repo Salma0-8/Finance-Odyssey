@@ -62,7 +62,7 @@ This roadmap provides a step-by-step guide for mastering quantitative finance, s
 - Portfolio & Risk Management
 - Market Efficiency Theories (Efficient Market Hypothesis, Behavioral Finance)
 - Microstructure Analysis: Market-making, limit order book dynamics
-- Fixed Income Basics (Bond pricing, Duration, Convexity)
+- Fixed Income Derivatives (Interest Rate Swaps, Swaptions, Bond Futures, Bond Pricing Models (Discounted Cash Flow, Yield to Maturity, Duration & Convexity) ([document](https://drive.google.com/file/d/1LHiGzuFLTSOvhr0QAIGPO6SBUShpueYd/view?usp=sharing))
 
 **Resources:**
 - "Options, Futures, and Other Derivatives" – John Hull
