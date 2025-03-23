@@ -110,20 +110,48 @@ This roadmap provides a step-by-step guide for mastering quantitative finance, s
 ---
 
 ## Advanced Level
-### Portfolio Optimization
-**Topics:**
-- Mean-Variance Optimization (Markowitz Model)
-- Black-Litterman Model for asset allocation
-- High-Frequency Trading (HFT) techniques
-- Factor Models: Fama-French, Arbitrage Pricing Theory (APT)
+### Portfolio Optimization 
+
+## Portfolio Theory & Fundamentals  
+- **Modern Portfolio Theory (MPT)** → Risk-return tradeoff, Efficient frontier  
+- **Mean-Variance Optimization** → Markowitz model, Efficient frontier construction  
+- **Risk-Return Measures** → Expected return, Standard deviation, Sharpe ratio, Sortino ratio  
+- **Capital Market Theory** → Capital Market Line (CML), Security Market Line (SML)  
+- **Asset Allocation Strategies** → Strategic vs. Tactical, Static vs. Dynamic allocation  
+
+## Risk Modeling & Factor Models  
+- **Risk Parity & Portfolio Diversification** → Equal risk contribution, Minimum correlation  
+- **Factor Models** → Fama-French (3, 5, or multi-factor), Arbitrage Pricing Theory (APT)  
+- **Covariance Estimation & Shrinkage Methods** → Ledoit-Wolf shrinkage, Bayesian shrinkage  
+- **Black-Litterman Model** → Bayesian asset allocation, Market equilibrium adjustments  
+
+## Optimization Techniques  
+- **Quadratic Optimization** → Convex optimization, Lagrange multipliers  
+- **Mean-CVaR (Conditional Value-at-Risk) Optimization** → Tail risk minimization  
+- **Bayesian Portfolio Optimization** → Incorporating prior beliefs into asset allocation  
+- **Robust Optimization** → Handling estimation errors in risk and return forecasts  
+- **Multi-Objective Optimization** → Balancing different constraints like ESG, liquidity  
+
+## Alternative & Dynamic Portfolio Strategies  
+- **Risk-Based Portfolios** → Minimum variance, Maximum diversification, Risk budgeting  
+- **Hierarchical Risk Parity (HRP)** → Clustering-based asset allocation  
+- **Momentum & Mean Reversion Strategies** → Time-series vs. cross-sectional momentum  
+- **Adaptive Asset Allocation** → Regime-based investing, Dynamic rebalancing  
+- **Kelly Criterion for Portfolio Sizing** → Optimal bet sizing based on probabilities  
+
+## Machine Learning & Advanced Topics  
+- **Machine Learning in Portfolio Optimization** → Reinforcement learning, Genetic algorithms  
+- **Deep Learning for Portfolio Management** → LSTMs, Autoencoders for factor analysis  
+- **Monte Carlo Simulation in Portfolio Optimization** → Stochastic modeling for risk assessment  
+- **Bayesian Networks & Probabilistic Graphical Models** → Causal inference in asset returns  
 
 **Resources:**
 - "Active Portfolio Management" – Richard Grinold & Ronald Kahn
 - Coursera - Portfolio and Risk Management ([Coursera](https://www.coursera.org/learn/portfolio-and-risk-management))
 
-# Fixed Income Modeling – Full Topics Overview  
+## Fixed Income Modeling 
 
-## Bond Pricing & Yield Analysis  
+### Bond Pricing & Yield Analysis  
 - **Bond Pricing Fundamentals** → Present value, Discounting cash flows  
 - **Yield to Maturity (YTM) & Spot Rates** → Measuring return for bonds  
 - **Forward Rates & Yield Curve** → Constructing the term structure of interest rates  
@@ -165,7 +193,7 @@ This roadmap provides a step-by-step guide for mastering quantitative finance, s
 - **Stochastic Calculus in Fixed Income** → Ito’s Lemma, Jump diffusion models for bond pricing  
 - **Deep Learning for Yield Curve Prediction** → LSTMs, Transformers for interest rate forecasting  
 
-# Credit Risk Modeling – Full Topics Overview  
+## Credit Risk Modeling – Full Topics Overview  
 
 ## Credit Risk Fundamentals  
 - **Probability of Default (PD)** → Estimating the likelihood of borrower default  
@@ -173,7 +201,7 @@ This roadmap provides a step-by-step guide for mastering quantitative finance, s
 - **Exposure at Default (EAD)** → Estimating credit exposure at the time of default  
 - **Credit Spread & Risky Bonds** → Measuring default risk through bond spreads  
 
-## Credit Migration & Rating Models  
+### Credit Migration & Rating Models  
 - **Credit Migration & Transition Matrices** → Markov chains, Credit rating transitions  
 - **Credit Scoring Models** → Logistic regression, Machine learning, Moody’s, S&P ratings  
 - **Altman Z-Score Model** → Financial distress prediction for corporate credit risk  
