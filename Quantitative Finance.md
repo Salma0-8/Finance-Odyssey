@@ -132,14 +132,14 @@ This roadmap provides a step-by-step guide for mastering quantitative finance, s
 - **Robust Optimization** → Handling estimation errors in risk and return forecasts  
 - **Multi-Objective Optimization** → Balancing different constraints like ESG, liquidity  
 
-## Alternative & Dynamic Portfolio Strategies  
+**Alternative & Dynamic Portfolio Strategies**
 - **Risk-Based Portfolios** → Minimum variance, Maximum diversification, Risk budgeting  
 - **Hierarchical Risk Parity (HRP)** → Clustering-based asset allocation  
 - **Momentum & Mean Reversion Strategies** → Time-series vs. cross-sectional momentum  
 - **Adaptive Asset Allocation** → Regime-based investing, Dynamic rebalancing  
 - **Kelly Criterion for Portfolio Sizing** → Optimal bet sizing based on probabilities  
 
-## Machine Learning & Advanced Topics  
+**Machine Learning & Advanced Topics**
 - **Machine Learning in Portfolio Optimization** → Reinforcement learning, Genetic algorithms  
 - **Deep Learning for Portfolio Management** → LSTMs, Autoencoders for factor analysis  
 - **Monte Carlo Simulation in Portfolio Optimization** → Stochastic modeling for risk assessment  
@@ -149,81 +149,81 @@ This roadmap provides a step-by-step guide for mastering quantitative finance, s
 - "Active Portfolio Management" – Richard Grinold & Ronald Kahn
 - Coursera - Portfolio and Risk Management ([Coursera](https://www.coursera.org/learn/portfolio-and-risk-management))
 
-## Fixed Income Modeling 
+### Fixed Income Modeling 
 
-### Bond Pricing & Yield Analysis  
+**Bond Pricing & Yield Analysis**
 - **Bond Pricing Fundamentals** → Present value, Discounting cash flows  
 - **Yield to Maturity (YTM) & Spot Rates** → Measuring return for bonds  
 - **Forward Rates & Yield Curve** → Constructing the term structure of interest rates  
 
-## Term Structure of Interest Rates  
+**Term Structure of Interest Rates**
 - **Expectations Theory** → Future short-term rates drive long-term rates  
 - **Liquidity Preference Theory** → Investors demand risk premiums for longer maturities  
 - **Market Segmentation Theory** → Independent supply-demand forces for different maturities  
 - **Yield Curve Modeling** → Nelson-Siegel, Svensson, and Vasicek models  
 
-## Interest Rate Models  
+**Interest Rate Models**
 - **Vasicek Model** → Mean-reverting stochastic interest rates  
 - **Cox-Ingersoll-Ross (CIR) Model** → Non-negative stochastic interest rates  
 - **Hull-White Model** → Generalized short-rate model with time-varying volatility  
 - **Heath-Jarrow-Morton (HJM) Framework** → Forward rate modeling for derivatives pricing  
 - **Libor Market Model (LMM)** → Term structure evolution for interest rate derivatives  
 
-## Duration, Convexity & Hedging  
+**Duration, Convexity & Hedging**
 - **Macaulay & Modified Duration** → Sensitivity of bond prices to interest rates  
 - **Key Rate Duration** → Interest rate risk at different maturities  
 - **Convexity Adjustment** → Second-order price sensitivity to yield changes  
 - **Immunization Strategies** → Hedging bond portfolios against interest rate changes  
 
-## Credit Spread & Risky Bonds  
+**Credit Spread & Risky Bonds**
 - **Credit Spread Measurement** → Treasury vs. corporate bond spreads  
 - **Credit Risk in Fixed Income** → Default probability, Recovery rates  
 - **Merton Model for Default Risk** → Firm value-based credit risk assessment  
 
-## Fixed Income Derivatives & Structured Products  
+**Fixed Income Derivatives & Structured Products**
 - **Interest Rate Swaps** → Fixed vs. floating rate cash flow exchanges  
 - **Caps, Floors & Collars** → Interest rate risk management derivatives  
 - **Mortgage-Backed Securities (MBS)** → Securitization of mortgage loans  
 - **Collateralized Debt Obligations (CDOs)** → Slicing credit risk exposure  
 - **Convertible Bonds** → Hybrid securities with equity and debt characteristics  
 
-## Advanced Topics  
+**Advanced Topics**
 - **Machine Learning in Fixed Income** → Predictive modeling, Sentiment analysis on bond markets  
 - **Bayesian Fixed Income Models** → Probabilistic bond pricing and risk estimation  
 - **Stochastic Calculus in Fixed Income** → Ito’s Lemma, Jump diffusion models for bond pricing  
 - **Deep Learning for Yield Curve Prediction** → LSTMs, Transformers for interest rate forecasting  
 
-## Credit Risk Modeling – Full Topics Overview  
+### Credit Risk Modeling  
 
-## Credit Risk Fundamentals  
+**Credit Risk Fundamentals**
 - **Probability of Default (PD)** → Estimating the likelihood of borrower default  
 - **Loss Given Default (LGD)** → Measuring the severity of losses in default scenarios  
 - **Exposure at Default (EAD)** → Estimating credit exposure at the time of default  
 - **Credit Spread & Risky Bonds** → Measuring default risk through bond spreads  
 
-### Credit Migration & Rating Models  
+**Credit Migration & Rating Models**
 - **Credit Migration & Transition Matrices** → Markov chains, Credit rating transitions  
 - **Credit Scoring Models** → Logistic regression, Machine learning, Moody’s, S&P ratings  
 - **Altman Z-Score Model** → Financial distress prediction for corporate credit risk  
 - **Machine Learning for Credit Scoring** → Decision trees, Neural networks, Gradient boosting  
 
-## Structural Credit Risk Models  
+**Structural Credit Risk Models**
 - **Merton Model** → Firm value-based credit risk assessment  
 - **Black-Cox Model** → Barrier options framework for credit default prediction  
 - **KMV Model** → EDF (Expected Default Frequency) estimation using firm volatility  
 
-## Reduced-Form Credit Risk Models  
+**Reduced-Form Credit Risk Models**
 - **Jarrow-Turnbull Model** → Intensity-based credit risk modeling  
 - **Duffie-Singleton Model** → Hazard rate approach for credit default swaps (CDS) pricing  
 - **Lando Model** → Extensions to intensity-based default risk modeling  
 
-## Credit Derivatives & Counterparty Risk  
+**Credit Derivatives & Counterparty Risk**
 - **Credit Default Swaps (CDS)** → Hedging credit risk with derivative contracts  
 - **Collateralized Debt Obligations (CDOs)** → Securitization of credit risk exposure  
 - **Credit Valuation Adjustments (CVA, DVA, FVA)** → Pricing counterparty credit risk  
 - **Wrong-Way Risk & Right-Way Risk** → Correlation between exposure and default risk  
 
-## Stress Testing & Regulatory Frameworks  
+**Stress Testing & Regulatory Frameworks**
 - **Basel III Credit Risk Capital Requirements** → Standardized vs. IRB approaches  
 - **IFRS 9 & Expected Credit Loss (ECL) Model** → Financial reporting of credit risk  
 - **Stress Testing & Scenario Analysis** → Sensitivity analysis for macroeconomic shocks  
