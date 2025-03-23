@@ -112,20 +112,20 @@ This roadmap provides a step-by-step guide for mastering quantitative finance, s
 ## Advanced Level
 ### Portfolio Optimization 
 
-## Portfolio Theory & Fundamentals  
+**Portfolio Theory & Fundamentals**
 - **Modern Portfolio Theory (MPT)** → Risk-return tradeoff, Efficient frontier  
 - **Mean-Variance Optimization** → Markowitz model, Efficient frontier construction  
 - **Risk-Return Measures** → Expected return, Standard deviation, Sharpe ratio, Sortino ratio  
 - **Capital Market Theory** → Capital Market Line (CML), Security Market Line (SML)  
 - **Asset Allocation Strategies** → Strategic vs. Tactical, Static vs. Dynamic allocation  
 
-## Risk Modeling & Factor Models  
+**Risk Modeling & Factor Models**
 - **Risk Parity & Portfolio Diversification** → Equal risk contribution, Minimum correlation  
 - **Factor Models** → Fama-French (3, 5, or multi-factor), Arbitrage Pricing Theory (APT)  
 - **Covariance Estimation & Shrinkage Methods** → Ledoit-Wolf shrinkage, Bayesian shrinkage  
 - **Black-Litterman Model** → Bayesian asset allocation, Market equilibrium adjustments  
 
-## Optimization Techniques  
+**Optimization Techniques**
 - **Quadratic Optimization** → Convex optimization, Lagrange multipliers  
 - **Mean-CVaR (Conditional Value-at-Risk) Optimization** → Tail risk minimization  
 - **Bayesian Portfolio Optimization** → Incorporating prior beliefs into asset allocation  
