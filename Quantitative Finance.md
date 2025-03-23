@@ -48,8 +48,8 @@ This roadmap provides a step-by-step guide for mastering quantitative finance, s
 - SQL: Querying financial datasets
 - Java (used in trading infrastructure)
 - R (for statistical modeling)
--  Cython (for performance optimization in Python-based quant models)
--  Rust (gaining popularity in HFT due to safety and speed)
+- Cython (for performance optimization in Python-based quant models)
+- Rust (gaining popularity in HFT due to safety and speed)
 
 **Resources:**
 - "Python for Finance" – Yves Hilpisch
@@ -98,7 +98,7 @@ This roadmap provides a step-by-step guide for mastering quantitative finance, s
 **Topics:**
 - Black-Scholes Model for Option Pricing ([document](https://drive.google.com/file/d/1oO66_HJgT1FnKC7hxFrELVSGy1zQ0evA/view?usp=sharing))
 - Greeks & Risk Measures (VaR, Conditional VaR) ([document](https://drive.google.com/file/d/1x_51qkVo4y8LAy9FR3hyPWtrPJHD84Nl/view?usp=sharing))
-- Interest Rate Models: Vasicek, CIR ([document](https://drive.google.com/file/d/1ctCwqfluyn4nTqoqpmYdEB2QSOBshTxB/view?usp=sharing))
+- Interest Rate Models ([document](https://drive.google.com/file/d/1ctCwqfluyn4nTqoqpmYdEB2QSOBshTxB/view?usp=sharing))
 - Stress Testing & Scenario Analysis ([document](https://drive.google.com/file/d/1l3zUZ0WBIX9qUTZOw_gi-zFqll2Pyuiy/view?usp=sharing))
 - Jump-Diffusion Models (e.g., Merton Model for option pricing) ([document](https://drive.google.com/file/d/1h3qZ7tn-cutQJzWT5Db_LUktnese7HZn/view?usp=sharing))
 - Stochastic Volatility Models (Heston Model, SABR) ([document](https://drive.google.com/file/d/19coJar6sG7eaHnYW8YZyky_NKlSD7-7P/view?usp=sharing))
@@ -121,14 +121,24 @@ This roadmap provides a step-by-step guide for mastering quantitative finance, s
 - "Active Portfolio Management" – Richard Grinold & Ronald Kahn
 - Coursera - Portfolio and Risk Management ([Coursera](https://www.coursera.org/learn/portfolio-and-risk-management))
 
-### Fixed Income & Credit Risk Modeling
+### Fixed Income 
 **Topics:**
-- Interest Rate Models: Vasicek, CIR, HJM
-- Credit Risk Models: Merton Model, Structural & Reduced-Form Models
-- Credit Derivatives: Credit Default Swaps (CDS)
-- Yield Curve Construction & Interest Rate Derivatives
-- Cover Structural vs. Reduced-Form Credit Risk Models
+- Bond Pricing and Yield → Present value, YTM, Spot rates, Forward rates
+- Term Structure of Interest Rates → Expectations theory, Liquidity preference, Yield curve modeling
+- Interest Rate Models → Vasicek, CIR, Hull-White, HJM, LMM
+- Duration, Convexity & Hedging → Macaulay duration, Key rate duration, Immunization
+- Credit Spread & Risky Bonds → Credit risk, Default probability, Merton model
+- Fixed Income Derivatives → Interest rate swaps, Caps, Floors, MBS, CDOs, Convertible bonds
   
+### Credit Risk Modeling
+-Probability of Default (PD), Loss Given Default (LGD), Exposure at Default (EAD) → Credit risk fundamentals
+-Credit Migration & Transition Matrices → Markov chains, Rating transitions
+-Structural Credit Risk Models → Merton model, Black-Cox model
+-Reduced-Form Credit Risk Models → Jarrow-Turnbull, Duffie-Singleton
+-Credit Scoring & Rating Models → Logistic regression, Machine learning, Moody’s, S&P
+-Credit Derivatives & Counterparty Risk → CDS, CDOs, CVA, DVA, FVA
+-Stress Testing & Regulatory Frameworks → Basel III, IFRS 9, Scenario analysis
+
 **Resources:**
 - "Fixed Income Securities" – Bruce Tuckman
 - DataCamp - Credit Risk Modeling in Python ([DataCamp](https://www.datacamp.com/courses/credit-risk-modeling-in-python))
@@ -141,6 +151,9 @@ This roadmap provides a step-by-step guide for mastering quantitative finance, s
 - Satellite Data, Social Media Sentiment for alpha generation
 - Sentiment Analysis with Large Language Models (LLMs)
 - Alternative Datasets: Satellite imagery, ESG data, Credit Card Transactions
+- Deep Learning for Bond Pricing & Default Prediction → Neural networks, Time series forecasting
+- Bayesian Methods in Credit Risk → Probabilistic modeling, Bayesian inference
+- Stochastic Calculus in Credit Derivatives → Ito’s Lemma models
 
 **Resources:**
 - "The Book of Alternative Data" – Alexander Denev
