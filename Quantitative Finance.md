@@ -164,8 +164,8 @@ This roadmap provides a step-by-step guide for mastering quantitative finance, s
 - ([2025 QuantNet Ranking of Best Financial Engineering Programs](https://quantnet.com/mfe-programs-rankings/))
 
 **Recommended Certifications:**
-- **FRM (Financial Risk Manager)** – Best for risk management ([FRM full Materials](https://drive.google.com/drive/u/0/folders/13m0EgG_nBM-KkyHEa2A7VuZsBl-r8RP5))
-- **CFA (Chartered Financial Analyst)** – Broad finance knowledge
+- **FRM (Financial Risk Manager)** – Best for risk management ([FRM full Material](https://drive.google.com/drive/u/0/folders/13m0EgG_nBM-KkyHEa2A7VuZsBl-r8RP5))
+- **CFA (Chartered Financial Analyst)** – Broad finance knowledge ([CFA full Material](https://drive.google.com/drive/folders/1No3pJ_S7Wc3_DEEWGIzrNqtE-MhRCKm3?usp=sharing))
 - **CQF (Certificate in Quantitative Finance)** – Focused on quant skills
 
 **Resources:**
