@@ -36,9 +36,14 @@ Actuarial science is a multidisciplinary field that applies mathematics, statist
 - **Experience Rating and Credibility Theory**
 
 ### Survival Models and Mortality Analysis
-- **Life Tables and Mortality Rates**
-- **Survival Functions and Force of Mortality**
-- **Multiple Decrement Models**
+- **Fundamentals of Survival Analysis (Event-time data, Censoring (right, left, interval), Survival function, Hazard function, Cumulative hazard function)**
+- **Non-Parametric Survival Analysis (Kaplan-Meier Estimator, Log-rank test, Nelson-Aalen Estimator)**
+- **Semi-Parametric Survival Models (Cox Proportional Hazards Model, Stratified Cox Model, Time-dependent covariates in Cox Model)**
+- **Parametric Survival Models (Exponential survival model, Weibull survival model, Log-Normal survival model, Log-Logistic survival model, Gompertz survival model)**
+- **Advanced Survival Analysis (Frailty models, Competing risks models, Multi-state survival models, Bayesian survival models, Deep learning for survival analysis)**
+- **Mortality Analysis & Actuarial Science (Life tables, Mortality rate models (Gompertz, Makeham’s Law), Hazard rate modeling, Actuarial applications in insurance & pensions, Predicting human lifespan)**
+- Applications of Survival & Mortality Analysis: Healthcare, Finance & insurance, Reliability engineering, Customer retention & churn analysis
+
 
 **Resources:**
 - *Actuarial Mathematics* - Newton Bowers
