@@ -14,79 +14,152 @@ To secure a quant role at **hedge funds, investment banks, or proprietary tradin
 
 # **Quantitative Finance Projects**
 
-## **1. Advanced Option Pricing and Hedging**
-### **Description**
-This project implements **advanced mathematical models** for pricing and hedging financial derivatives, including European and American options.
+## **1. Deep Learning for Stock Price Prediction & Time Series Forecasting**  
+### Description  
+This project focuses on forecasting stock prices and market trends using deep learning models. The goal is to capture complex patterns in financial time series data.  
 
-### **Methods Implemented**
-- **Black-Scholes Model (BSM):** Analytical pricing of European options
-- **Monte Carlo Simulation:** Pricing options using **Geometric Brownian Motion (GBM)**
-- **Binomial & Trinomial Trees:** Pricing American options with early exercise
-- **Finite Difference Methods:** Solving the **Black-Scholes PDE** (Crank-Nicolson, implicit & explicit methods)
-- **Delta Hedging:** Implementing a **self-financing strategy** for risk management
-- **Stochastic Volatility Models:** Extending to the **Heston model** for volatility skew analysis
+### Methods Implemented  
+- **LSTMs & GRUs:** Capture long-term dependencies in stock price movements  
+- **Transformer-based models (e.g., Temporal Fusion Transformer):** Improve forecasting accuracy with attention mechanisms  
+- **Bayesian Neural Networks:** Model uncertainty in financial predictions  
+- **Prophet & ARIMA models:** Benchmark classical statistical approaches against deep learning models  
+- **Volatility clustering with GARCH models:** Analyze periods of market instability  
 
----
-
-## **2. Quantitative Trading Strategy with Deep Learning**
-### **Description**
-This project builds a **machine learning-driven trading strategy** optimized with **reinforcement learning techniques**.
-
-### **Methods Implemented**
-- **Time Series Forecasting:** Using **LSTM, Transformer models** for stock price prediction
-- **Reinforcement Learning:** Optimizing trade execution using **Deep Q-Networks (DQN) and PPO**
-- **Backtesting:** Validating performance using **Sharpe Ratio, Sortino Ratio, and Maximum Drawdown**
-- **Market-Making Strategies:** Optimizing execution using **parallelized C++ implementations**
+### Tools & Libraries  
+- `TensorFlow`, `PyTorch`, `Prophet`, `statsmodels`, `arch`, `pandas`, `numpy`  
 
 ---
 
-## **3. Stochastic Interest Rate Models and Yield Curve Construction**
-### **Description**
-This project models interest rates and applies stochastic processes for **yield curve construction and fixed-income pricing**.
+## **2. Algorithmic Trading with Reinforcement Learning (RL)**  
+### Description  
+This project builds a self-learning trading agent that adapts to changing market conditions.  
 
-### **Methods Implemented**
-- **Hull-White & CIR Models:** Simulating interest rate movements
-- **Yield Curve Bootstrapping:** Extracting spot rates from real market bond data
-- **Interest Rate Swap Pricing:** Valuing fixed-income derivatives
+### Methods Implemented  
+- **Deep Q-Networks (DQN), PPO, A3C:** Reinforcement learning techniques for trade execution  
+- **Reward shaping:** Optimize strategies for risk-adjusted returns using the Sharpe ratio  
+- **Multi-agent RL (MARL):** Model interactions between different market participants  
+- **Real-time execution:** Integrate with live market data for automated trading  
 
----
-
-## **4. Portfolio Optimization and Risk Management**
-### **Description**
-This project constructs **optimal investment portfolios** using modern portfolio theory and advanced risk management techniques.
-
-### **Methods Implemented**
-- **Mean-Variance Optimization:** Constructing the **efficient frontier**
-- **Capital Asset Pricing Model (CAPM):** Estimating expected returns and risk
-- **Value at Risk (VaR) & Conditional VaR (CVaR):** Assessing downside risk
-- **Monte Carlo Simulations for Risk Assessment:** Stress testing under different market conditions
-- **Risk Parity Portfolio Construction:** Equalizing risk contributions among assets
+### Tools & Libraries  
+- `Stable-Baselines3`, `Gym`, `Backtrader`, `Zipline`, `Alpaca API`, `Binance API`  
 
 ---
 
-## **5. Credit Risk Modeling and Default Prediction**
-### **Description**
-This project develops **machine learning and statistical models** for assessing **credit risk and probability of default**.
+## **3. Statistical Arbitrage & Market-Making Strategy**  
+### Description  
+This project implements statistical arbitrage and market-making strategies by exploiting short-term mispricings in financial assets.  
 
-### **Methods Implemented**
-- **Logistic Regression & Decision Trees:** Predicting default probabilities
-- **Survival Analysis:** Estimating time to default using **Cox proportional hazard models**
-- **Credit Scoring Models:** Implementing **Altman’s Z-score** and **Merton’s structural model**
-- **Stress Testing:** Simulating default risk under economic downturn scenarios
-- **Machine Learning for Credit Risk:** Using **Random Forests, XGBoost, and Neural Networks**
+### Methods Implemented  
+- **Cointegration & pairs trading:** Identify asset pairs with correlated price movements  
+- **Mean-reversion tests:** Use Augmented Dickey-Fuller (ADF) and Hurst exponent tests to detect price reversions  
+- **Execution optimization:** Implement volume-weighted average price (VWAP) and time-weighted average price (TWAP) strategies  
+
+### Tools & Libraries  
+- `numpy`, `scipy.optimize`, `statsmodels`, `vectorbt`, `LOBSTER`  
 
 ---
 
-## **6. High-Frequency Trading (HFT) Strategy Implementation**
-### **Description**
-This project explores **low-latency execution strategies** in high-frequency trading (HFT).
+## **4. High-Frequency Trading (HFT) & Order Book Modeling**  
+### Description  
+This project focuses on modeling market microstructure and optimizing execution strategies for high-frequency trading.  
 
-### **Methods Implemented**
-- **Market Microstructure Analysis:** Understanding bid-ask spread dynamics
-- **Order Flow Prediction:** Using machine learning to predict short-term price movements
-- **Execution Algorithms:** Implementing **VWAP, TWAP, and Implementation Shortfall**
-- **Latency Optimization:** Parallelizing order execution for **millisecond-level decision making**
-- **Statistical Arbitrage Strategies:** Implementing **pair trading and mean reversion analysis**
+### Methods Implemented  
+- **Order flow imbalance models:** Predict short-term price movements from order book data  
+- **Hawkes processes:** Model self-exciting events in order flow  
+- **Latency optimization:** Use `Cython` and `Numba` to speed up computations  
+- **Parallelized execution:** Implement concurrent order execution strategies  
+
+### Tools & Libraries  
+- `LOBSTER`, `vectorbt`, `numba`, `Cython`, `pandas`, `numpy`  
+
+---
+
+## **5. Portfolio Optimization & Smart Beta Strategies**  
+### Description  
+This project constructs optimal investment portfolios using modern portfolio theory and machine learning.  
+
+### Methods Implemented  
+- **Mean-variance optimization:** Construct the efficient frontier  
+- **Hierarchical Risk Parity (HRP):** Improve portfolio diversification  
+- **Bayesian optimization:** Optimize asset allocation under uncertainty  
+- **Factor investing:** Use machine learning to identify key drivers of returns  
+
+### Tools & Libraries  
+- `cvxpy`, `PyPortfolioOpt`, `scikit-learn`, `pandas`, `numpy`, `scipy.optimize`  
+
+---
+
+## **6. Options Pricing & Stochastic Volatility Modeling**  
+### Description  
+This project models options pricing and volatility using stochastic differential equations.  
+
+### Methods Implemented  
+- **Black-Scholes, Binomial Trees, Monte Carlo methods:** Classical approaches to option valuation  
+- **Stochastic volatility models (Heston, SABR):** Capture implied volatility skew  
+- **Risk-neutral pricing:** Model exotic derivatives  
+- **Delta-Vega hedging models:** Optimize risk management using deep learning  
+
+### Tools & Libraries  
+- `QuantLib`, `py_vollib`, `scipy.optimize`, `numpy`, `pandas`  
+
+---
+
+## **7. Yield Curve Modeling & Fixed-Income Derivatives Pricing**  
+### Description  
+This project builds models to analyze yield curves and price fixed-income securities.  
+
+### Methods Implemented  
+- **Nelson-Siegel-Svensson model:** Fit yield curves to real market data  
+- **Cox-Ingersoll-Ross (CIR) & Hull-White models:** Simulate interest rate movements  
+- **Pricing swaps, bonds, and fixed-income derivatives**  
+- **Gaussian Process Regression:** Forecast yield curves with machine learning  
+
+### Tools & Libraries  
+- `QuantLib`, `pybbg`, `scipy.optimize`, `pandas`, `numpy`  
+
+---
+
+## **8. Credit Risk Modeling & Default Prediction**  
+### Description  
+This project predicts loan defaults and credit risk using statistical and machine learning techniques.  
+
+### Methods Implemented  
+- **Logistic Regression, Random Forests, XGBoost:** Traditional credit scoring models  
+- **Merton’s Structural Model:** Assess credit spreads using option pricing theory  
+- **Survival analysis (Cox Proportional Hazard Model):** Estimate time to default  
+- **Deep Learning Autoencoders:** Detect anomalous lending behavior  
+
+### Tools & Libraries  
+- `scikit-learn`, `XGBoost`, `Lifelines`, `pandas`, `tensorflow`  
+
+---
+
+## **9. Alternative Data for Sentiment Analysis in Trading**  
+### Description  
+This project integrates alternative data sources, such as news and social media, to enhance trading strategies.  
+
+### Methods Implemented  
+- **Sentiment analysis using NLP models:** Use `VADER`, `TextBlob`, and BERT-based transformers  
+- **Event-driven trading:** React to breaking news and social sentiment shifts  
+- **Topic modeling:** Extract key themes from financial news  
+
+### Tools & Libraries  
+- `Hugging Face Transformers`, `nltk`, `spacy`, `BERT`, `pandas`, `scikit-learn`  
+
+---
+
+## **10. Energy & Commodity Price Forecasting (Crude Oil, Gold, Gas)**  
+### Description  
+This project predicts energy and commodity prices using time series analysis and machine learning.  
+
+### Methods Implemented  
+- **Feature engineering with macroeconomic indicators:** Incorporate supply-demand factors  
+- **Machine learning models (Random Forests, XGBoost, LSTMs):** Predict commodity prices  
+- **Time-series decomposition & seasonality analysis:** Identify cyclical trends  
+- **Neural Ordinary Differential Equations (Neural ODEs):** Model continuous-time price movements  
+
+### Tools & Libraries  
+- `scikit-learn`, `XGBoost`, `TensorFlow`, `PyTorch`, `statsmodels`  
 
 ---
 
