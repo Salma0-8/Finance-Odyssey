@@ -258,6 +258,7 @@ While the above steps provide a solid foundation, the advanced roadmap below wil
 - **Certification & Professional Development**
   - Certifications:
     - [Certified Fraud Examiner (CFE)](https://www.acfe.com/cfe-credential.aspx)
+    - Fraud Risk Management [(FRM)](https://drive.google.com/drive/u/2/folders/1_HzN8tqGvJKkwsCebiQTqPurxTPFTZTp)
     - Certified Financial Crime Specialist (CFCS)
     - SAS Certified Specialist: Fraud Detection (or similar)
   - Networking:
