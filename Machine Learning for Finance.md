@@ -20,7 +20,7 @@
 
 ### 🛠 Projects:
 
-* 🔎 Stock Market Navigator
+* 🔎 Stock Market Navigator (https://www.kaggle.com/code/salmarashwan/stock-market-navigator-project-1-ml-in-finance)
 * 📊 Mini Portfolio Tracker
 * 💾 Finance Data Warehouse
 
