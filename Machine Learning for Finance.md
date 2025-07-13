@@ -40,7 +40,7 @@
 
 ### 🛠 Projects:
 
-* 🔮 Return Predictor X
+* 🔮 Return Predictor X (https://www.kaggle.com/code/salmarashwan/return-predictor-x-ma-stock-ml-forecast-in-f-p4)
 * 🧠 Alpha Detector
 * 🧬 Financial Fingerprinting
 
