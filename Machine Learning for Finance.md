@@ -22,7 +22,7 @@
 
 * 🔎 Stock Market Navigator (https://www.kaggle.com/code/salmarashwan/stock-market-navigator-project-1-ml-in-finance)
 * 📊 Mini Portfolio Tracker (https://www.kaggle.com/code/salmarashwan/mini-portfolio-tracker-predictor-project-2)
-* 💾 Finance Data Warehouse
+* 💾 Finance Data Warehouse (https://www.kaggle.com/code/salmarashwan/finance-data-warehouse-ml-in-finance-project-3)
 
 ---
 
