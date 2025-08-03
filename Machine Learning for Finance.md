@@ -60,7 +60,7 @@
 
 ### 🛠 Projects:
 
-* 📈 Macro Trend Forecaster
+* 📈 Macro Trend Forecaster (https://www.kaggle.com/code/salmarashwan/macro-trend-forecaster-amazon-stock-amzn)
 * ⚡ Volatility Radar
 * 🕰 Rolling Returns Forecast Engine
 
