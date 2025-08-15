@@ -9,13 +9,23 @@
 
 ## 📂 Main Subfields
 
-1. ⚡ **High-Frequency Trading (HFT)** – Ultra-fast execution of thousands of trades in milliseconds.  
-2. 📊 **Statistical Arbitrage** – Exploiting statistical price relationships between correlated assets.  
-3. 🔄 **Pairs Trading** – Trading two historically correlated assets using **cointegration**.  
-4. 💧 **Market Making** – Providing liquidity by continuously placing buy/sell orders and profiting from the bid-ask spread.  
-5. 📈 **Trend Following** – Using indicators or time-series analysis to follow market trends.  
-6. 🔙 **Mean Reversion** – Betting that price will revert to its historical mean.  
-7. 📰 **Event-Driven Trading** – Trading based on events (earnings, news, economic data).
+1. **High-Frequency Trading (HFT)** – Ultra-fast execution of thousands of trades in milliseconds.  
+2. **Statistical Arbitrage** – Exploiting statistical price relationships between correlated assets.  
+3. **Pairs Trading** – Trading two historically correlated assets using **cointegration**.  
+4. **Market Making** – Providing liquidity by continuously placing buy/sell orders and profiting from the bid-ask spread.  
+5. **Trend Following** – Using indicators or time-series analysis to follow market trends.  
+6. **Mean Reversion** – Betting that price will revert to its historical mean.  
+7. **Event-Driven Trading** – Trading based on events (earnings, news, economic data).
+
+## 📚 Popular Python Libraries
+
+| Category               | Libraries |
+|------------------------|-----------|
+| **Data Analysis**      | `pandas`, `numpy` |
+| **Visualization**      | `matplotlib`, `plotly` |
+| **Financial Data**     | `yfinance`, `TA-Lib` |
+| **Machine Learning**   | `scikit-learn`, `xgboost`, `tensorflow`, `pytorch` |
+| **Backtesting**        | `backtrader`, `zipline`, `quantconnect` |
 ---
 
 ## 🗺️ Learning Phases & Timeline (suggested 6–8 months)
