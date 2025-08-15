@@ -7,6 +7,15 @@
 **Outcome:** Build a real portfolio of strategies, master risk & execution, and be ready for paper/live trading.
 **Stack:** Python (pandas, numpy, statsmodels, arch, scikit-learn, backtrader, PyPortfolioOpt), Jupyter, Git, Docker.
 
+## 📂 Main Subfields
+
+1. ⚡ **High-Frequency Trading (HFT)** – Ultra-fast execution of thousands of trades in milliseconds.  
+2. 📊 **Statistical Arbitrage** – Exploiting statistical price relationships between correlated assets.  
+3. 🔄 **Pairs Trading** – Trading two historically correlated assets using **cointegration**.  
+4. 💧 **Market Making** – Providing liquidity by continuously placing buy/sell orders and profiting from the bid-ask spread.  
+5. 📈 **Trend Following** – Using indicators or time-series analysis to follow market trends.  
+6. 🔙 **Mean Reversion** – Betting that price will revert to its historical mean.  
+7. 📰 **Event-Driven Trading** – Trading based on events (earnings, news, economic data).
 ---
 
 ## 🗺️ Learning Phases & Timeline (suggested 6–8 months)
