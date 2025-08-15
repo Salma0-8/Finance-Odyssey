@@ -274,3 +274,88 @@ A repo with: infra scripts, config, broker adapter, risk checks, dashboards, and
 * Ship small, **iterate**, and promote only what survives paper trading.
 
 ---
+
+## 🧠 **Technical & Quantitative Skills**
+
+* **Mathematical Finance**
+
+  * Stochastic calculus (Itô’s lemma, Brownian motion)
+  * Partial Differential Equations in option pricing (Black–Scholes, Heston models)
+  * Risk-neutral valuation
+
+* **Advanced Time-Series Modelling**
+
+  * ARIMA/SARIMA
+  * Vector Autoregression (VAR)
+  * State-space models & Kalman filters
+  * Regime-switching models
+
+* **Machine Learning for Finance**
+
+  * Gradient boosting (LightGBM, XGBoost, CatBoost)
+  * Recurrent Neural Networks (RNN, LSTM, GRU) for sequence modeling
+  * Transformers for time series
+  * Reinforcement learning (Deep Q-Learning, PPO) for trade execution
+
+* **Portfolio Theory & Risk Management**
+
+  * Factor models (Fama–French, Barra)
+  * Expected shortfall (CVaR) optimization
+  * Robust portfolio construction
+  * Stress testing & scenario analysis
+
+* **Market Microstructure & Low Latency**
+
+  * Order book dynamics & queue modeling
+  * Latency arbitrage strategies
+  * FIX protocol & direct market access (DMA)
+  * FPGA programming for trading systems
+
+* **Alternative Data & Feature Engineering**
+
+  * Satellite imagery, web scraping, social media sentiment
+  * NLP for news & filings analysis
+  * Feature selection with mutual information, SHAP values
+
+---
+
+## 🔬 **Advanced Project Ideas**
+
+1. **Regime-Switching Trading System** – Use hidden Markov models to detect market regimes and switch strategies accordingly.
+2. **Options Volatility Arbitrage** – Price options with local/stochastic volatility models and detect mispricings.
+3. **Reinforcement Learning Execution Agent** – Train an RL bot to minimize slippage in large orders.
+4. **Order Book Prediction Model** – Use deep learning to predict short-term price moves from L2 order book data.
+5. **Factor-Based Portfolio with Risk Controls** – Combine multiple alpha factors with a risk model to construct a live portfolio.
+6. **News-Driven Intraday Trading Bot** – Real-time NLP processing of earnings headlines to trigger trades.
+7. **Statistical Arbitrage Across Asset Classes** – Pair commodities vs. equities vs. FX using cointegration.
+
+---
+
+## 📜 **Certifications**
+
+* **CQF (Certificate in Quantitative Finance)** – Heavy on stochastic calculus, derivatives, risk management.
+* **CAIA (Chartered Alternative Investment Analyst)** – Focuses on hedge funds, private equity, and alternative strategies.
+* **FRM (Financial Risk Manager)** – Deep dive into risk measurement, derivatives, portfolio risk.
+* **Python for Finance and Algorithmic Trading** – Specialized courses from QuantInsti, EPAT, or Udemy advanced tracks.
+
+---
+
+## 🌐 **Resources**
+
+* **Books**
+
+  * *Algorithmic Trading* by Ernest Chan (Vol. 1 & 2)
+  * *Advances in Financial Machine Learning* by Marcos López de Prado
+  * *Machine Learning for Asset Managers* by Marcos López de Prado
+  * *Market Microstructure Theory* by Maureen O’Hara
+
+* **Research Papers**
+
+  * SSRN (Social Science Research Network)
+  * arXiv Quantitative Finance section
+
+* **Communities & Forums**
+
+  * Quantopian archives
+  * QuantConnect community
+  * Elite Trader forum (for execution/microstructure discussions)
