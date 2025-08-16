@@ -33,7 +33,7 @@
 ### Phase 0 — Foundations (2–3 weeks)
 
 * Python for data: `pandas`, `numpy`, plotting, environments (`venv`/`conda`)
-* Market basics: order types, bid-ask, leverage, slippage, margin, shorting
+* Market basics: order types, bid-ask, leverage, slippage, margin, shorting (https://quizlet.com/eg/1066015472/market-basics-flash-cards/?i=6df41p&x=1jqt)
 * Math refresh: logs/returns, compounding, expectations, variance, covariance
 
 **Mini-Project:** Clean & visualize OHLCV for 5 tickers; compute log returns, rolling mean/vol, drawdowns; export a one-page report (PNG + Markdown).
