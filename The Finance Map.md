@@ -1,6 +1,6 @@
 # The Finance Map — 20 Paths to Pick
 
-#Quick note on sources: salary bands and market trends below are broad, market-average ranges aggregated from industry summaries and salary studies; for program rankings I lean on recent Masters-in-Finance business-school rankings (QS / FT). Programming /tech demand and AI trends cited from industry reports.
+# Quick note on sources: salary bands and market trends below are broad, market-average ranges aggregated from industry summaries and salary studies; for program rankings I lean on recent Masters-in-Finance business-school rankings (QS / FT). Programming /tech demand and AI trends cited from industry reports.
 
 # 1 — Investment Banking (IB)
 
