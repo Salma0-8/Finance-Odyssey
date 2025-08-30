@@ -3,7 +3,7 @@ This will cover **Probability, Statistics, Linear Algebra, Calculus, Stochastic 
 
 ---
 
-# 📈 Quant Math Roadmap for Finance
+# 📈 Quantitative Mathematics Roadmap for Finance
 
 ---
 
