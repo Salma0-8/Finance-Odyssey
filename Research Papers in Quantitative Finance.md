@@ -6,7 +6,7 @@ Foundational Theories, Advanced Models, and Modern Applications
 
 **Authors:** Black & Scholes (1973)
 **Summary:** Introduces the Black-Scholes model, a pioneering framework for pricing European-style options using stochastic calculus.
-**Link:** [Read Paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://people.dm.unipi.it/pratelli/Finanza/Black-Scholes.pdf?utm_source=chatgpt.com)
+**Link:** [Read Paper](https://people.dm.unipi.it/pratelli/Finanza/Black-Scholes.pdf?utm_source.com)
 
 ---
 
