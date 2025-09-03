@@ -175,10 +175,10 @@ A repo with: infra scripts, config, broker adapter, risk checks, dashboards, and
 
 ## 🧑‍🎓 Certifications (pick based on target role)
 
-* **CFA® Program** — broad investments, ethics, portfolio; valued in PM/analyst paths. ([CFA Institute][13])
-* **FRM® (GARP)** — deep risk management (market/credit/operational/liquidity), great for risk/quant risk roles. ([GARP][14])
-* **CQF** — practitioner-oriented quant finance/ML program with modules & capstone. ([cqf.com][15])
-* **CMT®** — technical analysis credential; useful if you lean into technical/systematic chart-based methods. ([cmtassociation.org][16])
+* **CFA® Program** — broad investments, ethics, portfolio; valued in PM/analyst paths. ([CFA Institute])
+* **FRM® (GARP)** — deep risk management (market/credit/operational/liquidity), great for risk/quant risk roles. ([GARP])
+* **CQF** — practitioner-oriented quant finance/ML program with modules & capstone. ([cqf.com])
+* **CMT®** — technical analysis credential; useful if you lean into technical/systematic chart-based methods. ([cmtassociation.org])
 
 > Suggested sequences:
 >
@@ -281,7 +281,7 @@ A repo with: infra scripts, config, broker adapter, risk checks, dashboards, and
 * **Wed–Thu:** build/extend project, write tests
 * **Fri:** backtest + stress tests + writeup
 * **Sat:** paper review (arXiv/SSRN) + refactor + doc polish ([arXiv][17], [SSRN][18])
-* **Sun:** rest / plan next sprint
+* **Sun:** rest/plan next sprint
 
 ---
 
@@ -349,32 +349,3 @@ A repo with: infra scripts, config, broker adapter, risk checks, dashboards, and
 7. **Statistical Arbitrage Across Asset Classes** – Pair commodities vs. equities vs. FX using cointegration.
 
 ---
-
-## 📜 **Certifications**
-
-* **CQF (Certificate in Quantitative Finance)** – Heavy on stochastic calculus, derivatives, risk management.
-* **CAIA (Chartered Alternative Investment Analyst)** – Focuses on hedge funds, private equity, and alternative strategies.
-* **FRM (Financial Risk Manager)** – Deep dive into risk measurement, derivatives, portfolio risk.
-* **Python for Finance and Algorithmic Trading** – Specialized courses from QuantInsti, EPAT, or Udemy advanced tracks.
-
----
-
-## 🌐 **Resources**
-
-* **Books**
-
-  * *Algorithmic Trading* by Ernest Chan (Vol. 1 & 2)
-  * *Advances in Financial Machine Learning* by Marcos López de Prado
-  * *Machine Learning for Asset Managers* by Marcos López de Prado
-  * *Market Microstructure Theory* by Maureen O’Hara
-
-* **Research Papers**
-
-  * SSRN (Social Science Research Network)
-  * arXiv Quantitative Finance section
-
-* **Communities & Forums**
-
-  * Quantopian archives
-  * QuantConnect community
-  * Elite Trader forum (for execution/microstructure discussions)
