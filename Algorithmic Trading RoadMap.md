@@ -2,7 +2,7 @@
 
 ---
 
-# 🧭 Algorithmic Trading Roadmap — From Zero to Advanced
+#  Algorithmic Trading Roadmap — From Zero to Advanced
 
 **Outcome:** Build a real portfolio of strategies, master risk & execution, and be ready for paper/live trading.
 **Stack:** Python (pandas, numpy, statsmodels, arch, scikit-learn, backtrader, PyPortfolioOpt), Jupyter, Git, Docker.
@@ -262,9 +262,9 @@ A repo with: infra scripts, config, broker adapter, risk checks, dashboards, and
 
 ## 🎯 Certification Game-Plan (practical picks)
 
-* **Short term (3–6 months):** sit **CFA Level I** for breadth or **FRM Part I** for risk core. ([CFA Institute][20], [GARP][14])
-* **Medium term (6–12 months):** **FRM Part II** or **CMT Level I–II** if you want systematic/technical cred. ([GARP][21], [cmtassociation.org][16])
-* **Advanced (6–12 months):** **CQF** for practitioner-level quant/ML modules & capstone. ([cqf.com][22])
+* **Short term (3–6 months):** sit **CFA Level I** for breadth or **FRM Part I** for risk core. ([CFA Institute], [GARP])
+* **Medium term (6–12 months):** **FRM Part II** or **CMT Level I–II** if you want systematic/technical cred. ([GARP], [cmtassociation.org])
+* **Advanced (6–12 months):** **CQF** for practitioner-level quant/ML modules & capstone. ([cqf.com])
 
 ---
 
