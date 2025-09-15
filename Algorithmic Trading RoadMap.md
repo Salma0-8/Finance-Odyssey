@@ -7,7 +7,7 @@
 **Outcome:** Build a real portfolio of strategies, master risk & execution, and be ready for paper/live trading.
 **Stack:** Python (pandas, numpy, statsmodels, arch, scikit-learn, backtrader, PyPortfolioOpt), Jupyter, Git, Docker.
 
-## 📂 Main Subfields
+##  Main Subfields
 
 1. **High-Frequency Trading (HFT)** – Ultra-fast execution of thousands of trades in milliseconds.  
 2. **Statistical Arbitrage** – Exploiting statistical price relationships between correlated assets.  
@@ -17,7 +17,7 @@
 6. **Mean Reversion** – Betting that price will revert to its historical mean.  
 7. **Event-Driven Trading** – Trading based on events (earnings, news, economic data).
 
-## 📚 Popular Python Libraries
+##  Popular Python Libraries
 
 | Category               | Libraries |
 |------------------------|-----------|
@@ -28,7 +28,7 @@
 | **Backtesting**        | `backtrader`, `zipline`, `quantconnect` |
 ---
 
-## 🗺️ Learning Phases & Timeline (suggested 6–8 months)
+##  Learning Phases & Timeline (suggested 6–8 months)
 
 ### Phase 0 — Foundations (2–3 weeks)
 
@@ -46,7 +46,7 @@
 * Event-driven backtesting; vectorized sanity checks
 * Performance metrics: CAGR, Sharpe, Sortino, hit-rate, turnover, max DD
 
-**Project 1 – SMA/EMA Crossover (Daily) 📈**
+**Project 1 – SMA/EMA Crossover (Daily) **
 Rules: long when fast MA > slow MA, flat otherwise; include trading costs.
 Deliverables:
 
@@ -64,7 +64,7 @@ Deliverables:
 * Position sizing by spread distance; rebalance/exit rules
 * Robustness: rolling recalibration, out-of-sample validation
 
-**Project 2 – Pairs Trading 🔗**
+**Project 2 – Pairs Trading **
 Steps: universe selection → hedge ratio → spread → z-score bands → trades.
 Deliverables:
 
@@ -80,7 +80,7 @@ Deliverables:
 * ARCH/GARCH family, volatility clustering, fat tails
 * Vol-targeting & dynamic leverage; risk budgeting; VaR/CVaR
 
-**Project 3 – GARCH Vol Forecast 🌪️**
+**Project 3 – GARCH Vol Forecast **
 Fit GARCH(1,1) on returns, produce 1-day vol forecasts, target 10% annual vol strategy (scale position = target/forecast).
 Deliverables:
 
@@ -96,7 +96,7 @@ Deliverables:
 * Covariance estimation pitfalls; shrinkage; HRP; risk parity
 * Combining alphas; turnover/risk controls; transaction-cost awareness
 
-**Project 4 – Risk-Parity / HRP Portfolio 🧮**
+**Project 4 – Risk-Parity / HRP Portfolio **
 Blend signals from P1–P3 across 10–30 assets; compare EW vs. MV vs. HRP.
 Deliverables:
 
@@ -114,7 +114,7 @@ Deliverables:
 * Models: regularized linear, tree ensembles; calibrate to probability/score → position sizing
 * Labeling & leakage avoidance
 
-**Project 5 – ML Alpha Lab 🤖**
+**Project 5 – ML Alpha Lab **
 Train on 2012–2019, validate 2020–2022, test 2023–present; purged CV; shapley feature sanity.
 Deliverables:
 
@@ -146,13 +146,13 @@ Deliverables:
 * Risk limits (max position, DD stop, exposure), graceful kill-switch
 * Paper → small capital live → monitoring
 
-**Project 7 – Productionize One Strategy 🚀**
+**Project 7 – Productionize One Strategy **
 A repo with: infra scripts, config, broker adapter, risk checks, dashboards, and **paper trading** endpoints.
 *(Broker SDKs & docs: IBKR, Alpaca; LEAN if you prefer.)* ([Interactive Brokers][10], [docs.alpaca.markets][11], [lean.io][12])
 
 ---
 
-## 🧪 What “Good” Looks Like (Acceptance Criteria)
+##  What “Good” Looks Like (Acceptance Criteria)
 
 * **Data discipline:** strict train/validate/test by date, no leakage
 * **Costs modeled:** commissions, spread, slippage, borrow (if short), fees
@@ -163,7 +163,7 @@ A repo with: infra scripts, config, broker adapter, risk checks, dashboards, and
 
 ---
 
-## 🧰 Tools & Libraries (core docs)
+##  Tools & Libraries (core docs)
 
 * **Backtesting:** backtrader (platform & quickstart). ([backtrader.com][5])
 * **Portfolio:** PyPortfolioOpt (user guide, HRP). ([pyportfolioopt.readthedocs.io][4])
@@ -173,7 +173,7 @@ A repo with: infra scripts, config, broker adapter, risk checks, dashboards, and
 
 ---
 
-## 🧑‍🎓 Certifications (pick based on target role)
+##  Certifications (pick based on target role)
 
 * **CFA® Program** — broad investments, ethics, portfolio; valued in PM/analyst paths. ([CFA Institute])
 * **FRM® (GARP)** — deep risk management (market/credit/operational/liquidity), great for risk/quant risk roles. ([GARP])
@@ -188,7 +188,7 @@ A repo with: infra scripts, config, broker adapter, risk checks, dashboards, and
 
 ---
 
-## 📚 Curated Learning Resources (free/official where possible)
+##  Curated Learning Resources (free/official where possible)
 
 **Core docs & platforms**
 
@@ -215,7 +215,7 @@ A repo with: infra scripts, config, broker adapter, risk checks, dashboards, and
 
 ---
 
-## 🧱 Portfolio Projects (what to ship on GitHub)
+##  Portfolio Projects (what to ship on GitHub)
 
 1. **Momentum – SMA/EMA Crossover** (daily)
 
@@ -249,18 +249,18 @@ A repo with: infra scripts, config, broker adapter, risk checks, dashboards, and
 
 ---
 
-## 🛡️ Risk & Validation Checklist (use every time)
+##  Risk & Validation Checklist (use every time)
 
-* ⏳ **Temporal splits** only; no peeking across time
-* 💸 **Costs modeled** (commission + spread + slippage + borrow)
-* 📉 **Drawdown controls** (max DD, max leverage, exposure caps)
-* 🔁 **Stability tests** (parameter randomness, re-estimation windows)
-* 🧪 **Out-of-sample** & **walk-forward** required
-* 🧯 **Kill-switch** and order throttling in live mode
-* 📝 **Run logs** and trade blotter stored
+* **Temporal splits** only; no peeking across time
+* **Costs modeled** (commission + spread + slippage + borrow)
+* **Drawdown controls** (max DD, max leverage, exposure caps)
+* **Stability tests** (parameter randomness, re-estimation windows)
+* **Out-of-sample** & **walk-forward** required
+* **Kill-switch** and order throttling in live mode
+* **Run logs** and trade blotter stored
 ---
 
-## 🎯 Certification Game-Plan (practical picks)
+## Certification Game-Plan (practical picks)
 
 * **Short term (3–6 months):** sit **CFA Level I** for breadth or **FRM Part I** for risk core. ([CFA Institute], [GARP])
 * **Medium term (6–12 months):** **FRM Part II** or **CMT Level I–II** if you want systematic/technical cred. ([GARP], [cmtassociation.org])
@@ -268,14 +268,14 @@ A repo with: infra scripts, config, broker adapter, risk checks, dashboards, and
 
 ---
 
-## 🧑‍💻 Going Live — Two Practical Paths
+##  Going Live — Two Practical Paths
 
 * **Broker APIs:** IBKR TWS API (global markets, robust), Alpaca (simple equities/crypto). Start **paper** first. ([interactivebrokers.github.io][7], [docs.alpaca.markets][9])
 * **Framework route:** QuantConnect **LEAN** (research → backtest → optimize → live) with CLI & Docker. ([QuantConnect][6])
 
 ---
 
-## ✅ Weekly Study Rhythm (sample)
+##  Weekly Study Rhythm (sample)
 
 * **Mon–Tue:** reading + notes + small experiments
 * **Wed–Thu:** build/extend project, write tests
@@ -285,7 +285,7 @@ A repo with: infra scripts, config, broker adapter, risk checks, dashboards, and
 
 ---
 
-## 🤝 Final Tips
+## Final Tips
 
 * Keep a **trade blotter** and **research log** (what changed & why).
 * Prefer **simple, robust** rules over complex, fragile ones.
@@ -294,7 +294,7 @@ A repo with: infra scripts, config, broker adapter, risk checks, dashboards, and
 
 ---
 
-## 🧠 **Technical & Quantitative Skills**
+##  **Technical & Quantitative Skills**
 
 * **Mathematical Finance**
 
@@ -338,7 +338,7 @@ A repo with: infra scripts, config, broker adapter, risk checks, dashboards, and
 
 ---
 
-## 🔬 **Advanced Project Ideas**
+##  **Advanced Project Ideas**
 
 1. **Regime-Switching Trading System** – Use hidden Markov models to detect market regimes and switch strategies accordingly.
 2. **Options Volatility Arbitrage** – Price options with local/stochastic volatility models and detect mispricings.
