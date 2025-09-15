@@ -115,7 +115,7 @@ Deliverables:
 * Models: regularized linear, tree ensembles; calibrate to probability/score → position sizing
 * Labeling & leakage avoidance
 
-**Project 5 – ML Alpha Lab **
+**Project 5 – ML Alpha Lab**
 Train on 2012–2019, validate 2020–2022, test 2023–present; purged CV; shapley feature sanity.
 Deliverables:
 
@@ -131,7 +131,7 @@ Deliverables:
 * Limit order book, queue priority; impact; VWAP/TWAP; child orders
 * Simulation vs. paper trading; latency considerations
 
-**Project 6 – Execution Simulator 🏁**
+**Project 6 – Execution Simulator**
 Paper-trade your best strategy with VWAP/TWAP and simple liquidity/impact model; compare realized vs. backtest fills.
 Deliverables:
 
@@ -147,7 +147,7 @@ Deliverables:
 * Risk limits (max position, DD stop, exposure), graceful kill-switch
 * Paper → small capital live → monitoring
 
-**Project 7 – Productionize One Strategy **
+**Project 7 – Productionize One Strategy**
 A repo with: infra scripts, config, broker adapter, risk checks, dashboards, and **paper trading** endpoints.
 *(Broker SDKs & docs: IBKR, Alpaca; LEAN if you prefer.)* ([Interactive Brokers][10], [docs.alpaca.markets][11], [lean.io][12])
 
