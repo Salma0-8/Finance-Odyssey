@@ -63,6 +63,7 @@ Deliverables:
 * Stationarity checks (ADF), cointegration (Engle-Granger), z-score spreads
 * Position sizing by spread distance; rebalance/exit rules
 * Robustness: rolling recalibration, out-of-sample validation
+* Johansen Test (Multivariate Cointegration), Kalman Filter Spread Estimation, Regime-Switching Models, Distance-based / Clustering Methods
 
 **Project 2 – Pairs Trading **
 Steps: universe selection → hedge ratio → spread → z-score bands → trades.
