@@ -1,12 +1,12 @@
-# 🧮 Quantitative Research Career Roadmap
+#  Quantitative Research Career Roadmap
 
-## 🎯 Goal
+##  Goal
 
 Become a **Quantitative Researcher** or **Quant PM** at a top-tier hedge fund, asset manager, or proprietary trading firm (e.g., Jane Street, Citadel, DE Shaw, Two Sigma, AQR, Renaissance Technologies).
 
 ---
 
-## 🔭 4 Stages Overview
+##  4 Stages Overview
 
 | Stage                         | Focus                                    | Duration    |
 | ----------------------------- | ---------------------------------------- | ----------- |
@@ -17,9 +17,9 @@ Become a **Quantitative Researcher** or **Quant PM** at a top-tier hedge fund, a
 
 ---
 
-## 🔹 Stage 1: Foundations (0–12 Months)
+##  Stage 1: Foundations (0–12 Months)
 
-### 🧠 Topics to Master
+###  Topics to Master
 
 | Area        | Topics                                                                               |
 | ----------- | ------------------------------------------------------------------------------------ |
@@ -28,7 +28,7 @@ Become a **Quantitative Researcher** or **Quant PM** at a top-tier hedge fund, a
 | Programming | Python, NumPy, pandas, Matplotlib, Jupyter, Git                                      |
 | Finance     | Time value of money, bonds, equities, volatility                                     |
 
-### 📚 Resources
+### Resources
 
 * **Books:**
 
@@ -45,7 +45,7 @@ Become a **Quantitative Researcher** or **Quant PM** at a top-tier hedge fund, a
   * EdX: *Python for Data Science*, *Financial Engineering* (ColumbiaX)
   * MIT OCW: *Introduction to Probability and Statistics*, *Stochastic Processes*, *Measure Theory*
 
-### 🧪 Projects
+### Projects
 
 * Portfolio return calculator (Python)
 * Simulate a basic random walk (stock price modeling)
@@ -55,9 +55,9 @@ Become a **Quantitative Researcher** or **Quant PM** at a top-tier hedge fund, a
 
 ---
 
-## 🔹 Stage 2: Skill Building & Projects (1–2 Years)
+## Stage 2: Skill Building & Projects (1–2 Years)
 
-### 🔧 Technical Stack
+### Technical Stack
 
 | Domain      | Tools                                    |
 | ----------- | ---------------------------------------- |
@@ -67,7 +67,7 @@ Become a **Quantitative Researcher** or **Quant PM** at a top-tier hedge fund, a
 | Quant Libs  | PyPortfolioOpt, backtrader, statsmodels  |
 | Performance | Numba, Cython, Dask, Modin, Ray          |
 
-### 🧠 Quant Topics to Learn
+### Quant Topics to Learn
 
 * Monte Carlo simulations
 * CAPM, Fama-French models
@@ -81,7 +81,7 @@ Become a **Quantitative Researcher** or **Quant PM** at a top-tier hedge fund, a
 * Game Theory & Decision Theory
 * Numerical Methods (PDEs, root finding, interpolation)
 
-### 🧪 Projects
+## Projects
 
 * Backtest a moving average crossover strategy (Python + backtrader)
 * Factor-based portfolio construction using Fama-French data
@@ -96,9 +96,9 @@ Become a **Quantitative Researcher** or **Quant PM** at a top-tier hedge fund, a
 
 ---
 
-## 🔹 Stage 3: Entry-Level Roles (2–4 Years)
+## Stage 3: Entry-Level Roles (2–4 Years)
 
-### 🧳 Target Roles
+### Target Roles
 
 | Role                         | Description                                                |
 | ---------------------------- | ---------------------------------------------------------- |
@@ -107,7 +107,7 @@ Become a **Quantitative Researcher** or **Quant PM** at a top-tier hedge fund, a
 | Data Scientist (Finance)     | Focused on extracting alpha from large datasets            |
 | Quant Developer              | Build tools and infrastructure for backtesting/trading     |
 
-### 📦 Deliverables/Portfolio
+### Deliverables/Portfolio
 
 * GitHub repo of Python notebooks + Jupyter projects
 * Excel model for factor exposures
@@ -118,7 +118,7 @@ Become a **Quantitative Researcher** or **Quant PM** at a top-tier hedge fund, a
 * Real-time portfolio dashboard (Streamlit or Dash)
 * Alternative data signal extraction project (e.g. satellite or ESG)
 
-### 🧠 Key Platforms
+### Key Platforms
 
 * Kaggle (competitions)
 * SSRN/arXiv (paper preprints)
@@ -130,9 +130,9 @@ Become a **Quantitative Researcher** or **Quant PM** at a top-tier hedge fund, a
 
 ---
 
-## 🔹 Stage 4: Quant PM / Senior Researcher Track (4–7+ Years)
+## Stage 4: Quant PM / Senior Researcher Track (4–7+ Years)
 
-### 🚀 What to Aim For
+### What to Aim For
 
 * Publish research internally or externally
 * Own a strategy or sub-strategy
@@ -140,7 +140,7 @@ Become a **Quantitative Researcher** or **Quant PM** at a top-tier hedge fund, a
 * Begin designing your own trading strategies
 * Lead research teams or manage risk capital
 
-### 🧠 Advanced Skills
+### Advanced Skills
 
 * Execution algorithms and market microstructure
 * Reinforcement learning / online learning
@@ -151,7 +151,7 @@ Become a **Quantitative Researcher** or **Quant PM** at a top-tier hedge fund, a
 * Real-time trading infra with Docker/Kubernetes
 * Live simulation using Interactive Brokers API or Alpaca
 
-### 🧪 Final Projects
+### Final Projects
 
 * Alpha factor library (Python class-based)
 * Auto-backtester CLI or web app
@@ -161,7 +161,7 @@ Become a **Quantitative Researcher** or **Quant PM** at a top-tier hedge fund, a
 
 ---
 
-## 🧠 Specializations
+## Specializations
 
 | Track        | Focus                                                 |
 | ------------ | ----------------------------------------------------- |
@@ -174,7 +174,7 @@ Become a **Quantitative Researcher** or **Quant PM** at a top-tier hedge fund, a
 
 ---
 
-## 🛠 Tools Checklist
+## Tools Checklist
 
 | Type        | Tools                                                    |
 | ----------- | -------------------------------------------------------- |
@@ -187,7 +187,7 @@ Become a **Quantitative Researcher** or **Quant PM** at a top-tier hedge fund, a
 
 ---
 
-## 🧭 Timeline Summary
+## Timeline Summary
 
 | Time        | Milestone                                              |
 | ----------- | ------------------------------------------------------ |
@@ -199,7 +199,7 @@ Become a **Quantitative Researcher** or **Quant PM** at a top-tier hedge fund, a
 
 ---
 
-## 📌 Bonus Tips
+## Bonus Tips
 
 * Read papers from SSRN/arXiv weekly
 * Follow quant blogs (Quantocracy, QuantInsti)
@@ -212,7 +212,7 @@ Become a **Quantitative Researcher** or **Quant PM** at a top-tier hedge fund, a
 
 ---
 
-## 🔗 Suggested Readings
+## Suggested Readings
 
 * "Adv. Algorithmic Trading" – Ernie Chan
 * "Machine Learning for Asset Managers" – Marcos López de Prado
@@ -226,7 +226,7 @@ Become a **Quantitative Researcher** or **Quant PM** at a top-tier hedge fund, a
 
 ---
 
-## ✅ Summary
+## Summary
 
 Quantitative research is a **highly technical**, **data-driven**, and **alpha-focused** career path that powers modern finance. Whether you're targeting a hedge fund or AM shop, the key to success is:
 
